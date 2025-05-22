@@ -26,7 +26,22 @@ As per Mechalink's [guide](https://docs.google.com/document/d/1oGy78nvTUnASmYIBs
 ![Overworld Map](img/maps/overworld.png)
 
 ## 1. Graveyard
-![Overworld Map](img/maps/graveyard.png)
+![Graveyard](img/maps/graveyard.png)
+### Useful items
+- Crucifix: Needed to hurt the vampire if you're not carrying the Master Sword or the Sword of Light.
+- Amethyst: Used in conjunction with the Emerald and Red Diamond to turn the final boss teleports into a visible teleport.
+- Dark Sword: Projectile weapon, useful early on against Mad Dragon
+- Stamina Drink
 
-## 4. Ruins [WIP] 
+## 2. Vampire's Mansion
+_Welcome to the only house in Hydlide_
+
+![Mansion Map](img/maps/mansion.png)
+
+
+## 3. Trial Dungeon
+_Careful with the sparks_
+
+![Trial Dungeon Map](img/maps/trial.png)
+## 4. Ruins 
 ![Ruins Map](img/maps/ruins.png)
