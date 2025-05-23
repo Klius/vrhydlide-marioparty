@@ -22,6 +22,8 @@ As per Mechalink's [guide](https://docs.google.com/document/d/1oGy78nvTUnASmYIBs
 # General Tips
 - If you die on a dungeon and select continue you'll warp back to the entrance. Since enemies on hard hit like a truck Deathwarping is pretty fast.
 - The first 3 locations are optional but I recomend at least doing a run through the graveyard and the trial dungeon.
+- Jim has the turning radius of a cruise ship, That being said you can turn fast and with precission in the map screen.
+- Enemies swarming you? Save and load to despawn them.
 
 # Locations
 
@@ -93,3 +95,23 @@ Take off the flame amulet and touch any lava on the floor to deathwarp instantly
 ### Important items
 - Flame Sword: 3rd Best Sword in the game, **B+C** to shoot a fireball. Useful against the Mage in the Sealed Ruins.
 - Red Diamond: Used in conjunction with the Emerald and Amethyst to turn the final boss teleports into a visible teleport 
+
+
+## 6. Sealed Ruins
+
+
+### Important items
+
+
+## 7. Lost Castle
+
+
+### Important items
+
+## 8. Fairy Forest
+
+
+## 9. Final dungeon
+
+
+### Important items
