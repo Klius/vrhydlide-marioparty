@@ -95,9 +95,10 @@ Take off the flame amulet and touch any lava on the floor to deathwarp instantly
 ### Important items
 - Flame Sword: 3rd Best Sword in the game, **B+C** to shoot a fireball. Useful against the Mage in the Sealed Ruins.
 - Red Diamond: Used in conjunction with the Emerald and Amethyst to turn the final boss teleports into a visible teleport 
+- Flute of Zaldus: Required to open the door to the sealed ruins. Obtained from beating Mad Dragon.
 
 
-## 6. Sealed Ruins
+## 6. Sealed Dungeon
 
 
 ### Important items
@@ -108,7 +109,7 @@ Take off the flame amulet and touch any lava on the floor to deathwarp instantly
 
 ### Important items
 
-## 8. Fairy Forest
+## 8. Fairy Grove
 
 
 ## 9. Final dungeon
