@@ -33,7 +33,7 @@ As per Mechalink's [guide](https://docs.google.com/document/d/1oGy78nvTUnASmYIBs
 ### Important items
 - Crucifix: Needed to hurt the vampire if you're not carrying the Master Sword or the Sword of Light.
 - Amethyst: Used in conjunction with the Emerald and Red Diamond to turn the final boss teleports into a visible teleport.
-- Dark Sword: Projectile weapon, useful early on against Mad Dragon
+- Dark Sword: Press **B+C** to shoot an energy ball, useful against Mad Dragon.
 - Stamina Drink
 
 ## 2. Vampire's Mansion (Optional)
@@ -75,6 +75,21 @@ It's best to keep the Magic Sword and the Master Sword around for their use comm
 ### Important items
 - Flame Amulet: Avoids Jim turning into a crisp when walking over lava in the volcano
 - Fairy armor: Highest defense in the game
-- Master Sword: 3rd Best Sword, does Holy damage. Can be used in menu to cure curses.
+- Master Sword: 4rd Best Sword, does Holy damage. Can be used in menu to cure curses.
 - Magic Sword: Can be used in menu to cure poison.
 - Scroll of Oracle: Reveals the whole map of a dungeon
+
+## 5. Volcano
+_Home of the Pink Knights_
+
+The loot in the volcano ain't that great, use map turning to avoid getting lost.
+
+The boss, Mad Dragon always announces it's attacks by roaring and lowering it's head. Defend with the Dragon shield and then shoot back with the Dark Sword.
+
+Take off the flame amulet and touch any lava on the floor to deathwarp instantly to the entrance.
+
+![volcano Map](img/maps/volcano.png)
+
+### Important items
+- Flame Sword: 3rd Best Sword in the game, **B+C** to shoot a fireball. Useful against the Mage in the Sealed Ruins.
+- Red Diamond: Used in conjunction with the Emerald and Amethyst to turn the final boss teleports into a visible teleport 
