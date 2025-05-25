@@ -99,9 +99,18 @@ Take off the flame amulet and touch any lava on the floor to deathwarp instantly
 
 
 ## 6. Sealed Dungeon
+_Don't trust the signs_
 
+B1 is home to mimics, don't be tricked while treasure hunting.
+
+The cart rides state you need to weight <5 Kg, but the check ain't programmed 
+
+This dungeon doesn't have any useful loot aside from the fairy shield so it's better to head straight for it then beat the mage!
+
+![Sealed Dungeon Map](img/maps/sealed_dungeon.png)
 
 ### Important items
+- Fairy Shield: Has the strongest defense in the game. Use it in the menu to heal Poison, Curse and paralysis.
 
 
 ## 7. Lost Castle
